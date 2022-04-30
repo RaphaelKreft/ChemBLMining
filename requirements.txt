@@ -1,0 +1,2 @@
+chembl_webresource_client
+requests~=2.27.1
