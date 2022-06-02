@@ -1,4 +1,11 @@
-# ChemBLMining
+# Drug Discovery using Python
+
+In this repository I collect a bunch of interesting little projects that could be part of a drug discovery process.
+The projects include:
+  1. ChemBLMining: A Python program, that uses the API's from ChemBL and Uniprot to discover known drugs and their targets
+  2. Factor Analysis: A jupyter notebook containing a brief introduction to factor analysis 
+
+## ChemBLMining
 
 Please use your favourite programming language (shell scripts, python, R, for
 instance) and APIs (Application Programming Interfaces) of databases to perform
